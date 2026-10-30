@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Konfigurasi Halaman - Harus dipanggil paling awal
-st.set_page_config(page_title="Nepal Youth Stress Dashboard", layout="wide", page_icon="🎓")
+st.set_page_config(page_title="Dashboard Level Stres Siswa", layout="wide", page_icon="🎓")
 
 # 1. Memuat Data
 @st.cache_data
